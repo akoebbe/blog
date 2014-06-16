@@ -54,3 +54,4 @@ AUTHORS_SAVE_AS = False
 
 DISQUS_SITENAME = 'akoebbeblog'
 
+GOOGLE_ANALYTICS = True
