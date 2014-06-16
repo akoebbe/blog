@@ -1,6 +1,9 @@
 ===============
 Blog Post Ideas
 ===============
+
+:status: hidden
+
 * Migrate Module
 * Display Suite
 * Sass Article

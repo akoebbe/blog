@@ -21,4 +21,4 @@ ___________
 
 Directions
 __________
-Pretty simple. Mix all the ingredients in a sealable container like a mason jar. I'd recommend putting the blueberries in last after mixing the other ingredients, especially if they are fresh. Otherwise they may break apart. Put it in the fridge overnight. It should like for a few days so you can frontload your breakfasts for the week.
+Pretty simple. Mix all the ingredients in a sealable container like a mason jar. I'd recommend putting the blueberries in last after mixing the other ingredients, especially if they are fresh. Otherwise they may break apart. Put it in the fridge overnight. It should last for a few days so you can frontload your breakfasts for the week.

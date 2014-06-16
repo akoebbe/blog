@@ -3,10 +3,12 @@ Taking stylesheets to school with Sass, Compass and Susy (Part 3)
 =================================================================
 
 :date: 2013-05-16
+:summary: In the previous articles we covered the problem of CSS and the solution of Sass and Compass. But what about those fancy grid frameworks that use presentational class names? How can we leverage Sass to get a great responsive grid system and have our semantic class names?
+
 
 ..
 
-  This article was based on Susy 1.0 which is now outdated. Please see `Susy's upgrade path doc <http://susydocs.oddbird.net/en/latest/upgrade/>`_ for more information on what has changed. I hope to have a new article about version 2 in the near future.
+  This article was based on Susy 1.0. So it is outdated (unless you use the `susyone <http://susydocs.oddbird.net/en/latest/susyone/>`_ import). Please see `Susy's upgrade path doc <http://susydocs.oddbird.net/en/latest/upgrade/>`_ for more information on what has changed between version 1 and 2. I hope to have a new article about version 2 in the near future.
 
 In `part 1 <{filename}sass-1.rst>`_ and `part 2 <{filename}sass-2.rst>`_ we covered the problem of CSS and the solution of Sass and Compass. But what about those fancy grid frameworks that use presentational class names? How can we leverage Sass to get a great responsive grid system and have our semantic class names?
 

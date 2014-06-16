@@ -21,7 +21,15 @@
 
 .navbar .nav > li > a { color: #49AFCD; }
 .navbar .divider-vertical { border-right: 1px solid #4D4D4D; }
-.navbar { margin-bottom: 4em; } 
+.navbar { margin-bottom: 2rem; }
+.navbar .navbar-inner { padding: .5rem 0; }
+.navbar .brand {
+background-image: url(./images/logo.png);
+background-image: url(./images/logo.svg);
+background-repeat: no-repeat;
+background-size: contain;
+padding-left: 4rem;
+}
 
 
 /* Styling for elements */
