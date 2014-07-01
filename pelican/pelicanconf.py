@@ -6,6 +6,7 @@ from datetime import datetime
 AUTHOR = u'Andrew Koebbe'
 SITENAME = u'Andrew Koebbe'
 SITEURL = 'http://blog.andrewkoebbe.com'
+#SITEURL = 'http://localhost:8000'
 
 TIMEZONE = 'America/Chicago'
 CURRENT_YEAR = datetime.now().strftime('%Y')
@@ -17,8 +18,12 @@ PATH = 'content'
 ARTICLE_DIR = 'articles'
 PAGE_DIR = 'pages'
 
+STATIC_PATHS = ['images', 'static', ]
+
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
+FEED_DOMAIN = SITEURL
+FEED_ATOM = 'atom.xml'
+FEED_RSS = 'rss.xml'
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 

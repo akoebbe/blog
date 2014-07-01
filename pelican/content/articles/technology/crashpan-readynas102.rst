@@ -2,7 +2,7 @@
 Installing Crashplan headless on a ReadyNAS 102
 ===============================================
 
-:date: 2013-06-29
+:date: 2014-06-29
 :summary: Crashplan offers a great online backup solution. Netgear ReadyNAS offers a great home/small office local network storage solution. Here's a how to on how-to on how to set your ReadyNAS as a Crashplan client.
 
 
@@ -23,12 +23,14 @@ Head over to Crashplan's `download page <http://download.code42.com/installs/lin
 Run the following command on the ReadyNAS using the current version download URL you found on teh download page.
 
 .. code-block:: bash
+
     wget http://download.code42.com/installs/linux/install/CrashPlan/CrashPlan_3.6.3_Linux.tgz
 
 
 Apparently the busybox cpio is not compatible with the Crashplan installer, so we'll need to uninstall the busybox version and install the proper version.
 
 .. code-block:: bash
+
     apt-get remove busybox-cpio
     apt-get install cpio
 
@@ -36,20 +38,21 @@ Apparently the busybox cpio is not compatible with the Crashplan installer, so w
 We'll need to get a java runtime environment installed on the ReadyNAS since Crashplan is a java application. We'll also need a ARM based java library to use in place of the intel version bundled with Crashplan.
 
 .. code-block:: bash
+
     apt-get install openjdk-6-jre-headless
 
 Now you have the installer archive downloaded. It's time to decompress and run the installer. (Obviously replace the archive name with the one you downloaded)
 
 .. code-block:: bash
+
     tar xvzf CrashPlan_3.6.3_Linux.tgz
     cd /CrashPlan-install
     ./install.sh
 
 
-Answer the EULA and accept all of the defaults. You should get output similar to the following (EULA removed).
+Answer the EULA and accept all of the defaults. You should get output similar to the following (EULA removed). ::
 
-..
-   Welcome to the CrashPlan Installer.
+    Welcome to the CrashPlan Installer.
 
     Press enter to continue with installation.
 
@@ -116,9 +119,10 @@ Answer the EULA and accept all of the defaults. You should get output similar to
 
 Now Crashplan comes with a libjtux.so that compiled for intel processors. That's not going to work on our ARM based ReadyNAS, so we'll need to replace it with a ARM based library.
 
-Download a precompiled version here and make a backup copy of /usr/local/crashplan/libjtux.so, then decompress the downloaded file and put it in place of the original. Firing up the Crashplan backup engine should now work without dieing.
+`Download a precompiled version here <{filename}../../static/libjtux.so.gz>`_ and make a backup copy of /usr/local/crashplan/libjtux.so, then decompress the downloaded file and put it in place of the original. Firing up the Crashplan backup engine should now work without dieing.
 
 .. code-block:: bash
+
     /usr/local/crashplan/bin/CrashPlanEngine start
 
 
@@ -129,22 +133,21 @@ Step 3: Headless configuration
 ------------------------------
 Since you have to configure Crashplan via a GUI and the ReadyNAS is headless, we'll need to use a desktop app to attach to the client's backend. So here's the plan: we're going to point the desktop client to a non-standard port, then forward that point (via SSH forwarding) to the correct port on the ReadyNAS. In theory we'll only need to do this to get it set up and shouldn't need to connect to it this way again.
 
-Let's change the port the desktop app is looking for the client backend. We'll need to modify a configuration file for this. Here are the locations for each OS.
+Let's change the port the desktop app is looking for the client backend. We'll need to modify a configuration file for this. Here are the locations for each OS. ::
 
-..
     Linux (if installed as root): /usr/local/crashplan/conf/ui.properties
     Mac: /Applications/CrashPlan.app/Contents/Resources/Java/conf/ui.properties
     Windows: C:\Program Files\CrashPlan\conf\ui.properties​
 
-In this file we should duplicate the servicePort line, uncomment one of them and set it to 4200...
+In this file we should duplicate the servicePort line, uncomment one of them and set it to 4200... ::
 
-..
     #servicePort=4243
     servicePort=4200
 
 Now we need to forward our local 4200 port to the ReadyNas's port 4243. We can do this with SSH.
 
 .. code-block:: bash
+
     ssh -L 4200:localhost:4243 root@[ReadyNAS IP]
 
 Now fire up your desktop app and you should be greeted with the setup process.
