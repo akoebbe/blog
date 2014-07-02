@@ -40,7 +40,12 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-THEME = '../themes/tuxlite_tbs'
+THEME = '../themes/pelican-bootstrap3'
+BOOTSTRAP_THEME = 'flatly'
+PYGMENTS_STYLE = 'solarizeddark'
+SITELOGO = "images/logo.svg"
+CUSTOM_CSS = 'static/andrewkoebbe.css'
+
 
 TYPOGRIFY = True
 
@@ -59,4 +64,4 @@ AUTHORS_SAVE_AS = False
 
 DISQUS_SITENAME = 'akoebbeblog'
 
-GOOGLE_ANALYTICS = True
+GOOGLE_ANALYTICS = 'UA-51896543-1'
