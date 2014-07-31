@@ -10,4 +10,12 @@ Blog Post Ideas
 * Using HTML
 * Thoughts on BEM
 * Design patterns
+    * Strategy Pattern
+    * Factory Pattern
+
 * Recipes
+* Presentations
+    * Migrate Module
+    * Sass Presentation
+* Useful articles on Sass
+

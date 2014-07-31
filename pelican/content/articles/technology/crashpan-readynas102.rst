@@ -3,10 +3,10 @@ Installing Crashplan headless on a ReadyNAS 102
 ===============================================
 
 :date: 2014-06-29
-:summary: Crashplan offers a great online backup solution. Netgear ReadyNAS offers a great home/small office local network storage solution. Here's a how to on how-to on how to set your ReadyNAS as a Crashplan client.
+:summary: Crashplan offers a great online backup solution. Netgear ReadyNAS offers a great home/small office local network storage solution. Here's a how-to on how to set your ReadyNAS as a Crashplan client.
 
 
-Crashplan offers a great online backup solution. Netgear ReadyNAS offers a great home/small office local network storage solution. Here's a how to on how-to on how to set your ReadyNAS as a Crashplan client.
+Crashplan offers a great online backup solution. Netgear ReadyNAS offers a great home/small office local network storage solution. Here's a how-to on how to set your ReadyNAS as a Crashplan client.
 
 ------------------------------------
 Step 1: Turn on SSH on your ReadyNAS
@@ -18,7 +18,7 @@ Step 2: Get Crashplan downloaded and installed
 ----------------------------------------------
 Using your favorite ssh client, ssh to your ReadyNAS IP address as "root". The password will be the same as your web interface "admin" password.
 
-Head over to Crashplan's `download page <http://download.code42.com/installs/linux/install/CrashPlan/CrashPlan_3.6.3_Linux.tgz>`__ and get the current download URL for the linux installer. You can copy the URL from the "restart the download" link on this page. At the time of this writing the current version URL was http://download.code42.com/installs/linux/install/CrashPlan/CrashPlan_3.6.3_Linux.tgz
+Head over to Crashplan's `download page <http://www.code42.com/crashplan/thankyou/?os=linux>`__ and get the current download URL for the linux installer. You can copy the URL from the "restart the download" link on this page. At the time of this writing the current version URL was http://download.code42.com/installs/linux/install/CrashPlan/CrashPlan_3.6.3_Linux.tgz
 
 Run the following command on the ReadyNAS using the current version download URL you found on teh download page.
 
