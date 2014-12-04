@@ -6,8 +6,8 @@ from datetime import datetime
 AUTHOR = u'Andrew Koebbe'
 SITENAME = u'Andrew Koebbe'
 TAGLINE = u'Just another developer with a blog.'
-#SITEURL = 'http://blog.andrewkoebbe.com'
-SITEURL = 'http://localhost:8000'
+SITEURL = 'http://blog.andrewkoebbe.com'
+#SITEURL = 'http://localhost:8000'
 COVER_IMG_URL = '/images/cover.jpg'
 
 TIMEZONE = 'America/Chicago'
