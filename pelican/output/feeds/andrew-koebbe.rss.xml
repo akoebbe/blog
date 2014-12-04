@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Andrew Koebbe</title><link>http://localhost:8000/</link><description></description><atom:link href="http://localhost:8000/feeds/andrew-koebbe.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 30 Nov 2014 00:00:00 -0600</lastBuildDate><item><title>Lotion Bar</title><link>http://localhost:8000/posts/2014/11/lotion-bar/</link><description>&lt;p&gt;I&amp;#8217;d never heard of lotion bars before finding this recipe, but I&amp;#8217;m sold after using these bars over the past year. They are especially helpful&amp;nbsp;overnight.&lt;/p&gt;
+&lt;p&gt;I originally found this recipe on &lt;a href="http://www.onegoodthingbyjillee.com/2012/04/make-your-own-lotion-bars.html"&gt;One Good Thing by Jillee&lt;/a&gt;, but like most recipes I&amp;#8217;m finding the ingredients were not clearly listed in mass (grams). So I&amp;#8217;ve converted the measurements and simplified the ratio to 1:1:1 just to make it easy to&amp;nbsp;remember.&lt;/p&gt;
+&lt;h2&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;60g&amp;nbsp;beeswax&lt;/li&gt;
+&lt;li&gt;60g coconut&amp;nbsp;oil&lt;/li&gt;
+&lt;li&gt;60g shea&amp;nbsp;butter&lt;/li&gt;
+&lt;li&gt;Essential oils&amp;nbsp;(optional)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Directions&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Double boil or microwave all ingredients until&amp;nbsp;melted&lt;/li&gt;
+&lt;li&gt;Pour in to soap forms or any form you have around. I&amp;#8217;ve used I use a &lt;a href="http://www.amazon.com/Wilton-2105-4923-24-Cavity-Silicone-Brownie/dp/B001T4URXG"&gt;silicone brownie bite tray&lt;/a&gt; for travel&amp;nbsp;size.&lt;/li&gt;
+&lt;/ol&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Koebbe</dc:creator><pubDate>Sun, 30 Nov 2014 00:00:00 -0600</pubDate><guid>tag:localhost:8000,2014-11-30:posts/2014/11/lotion-bar/</guid><category>personal care</category><category>skin care</category><category>lotion</category><category>recipe</category></item><item><title>Pomade/Hair Styling Bar</title><link>http://localhost:8000/posts/2014/11/pomadehair-styling-bar/</link><description>&lt;p&gt;In the past I&amp;#8217;ve used traditional spreadable pomade, but really wanted to be able to make my own. As I looked for &lt;span class="caps"&gt;DIY&lt;/span&gt; recipes but they always turned out as a solid and not what I was expecting. But then I realized that bar form could actually&amp;nbsp;work.&lt;/p&gt;
+&lt;p&gt;Once this is made you just need to rub the bar on your head. I tend to put it on my hair when it&amp;#8217;s wet. Then just style it by hand or with a comb. The great thing about this being a bar is that you only rub on what you need and there&amp;#8217;s no excess. Plus it&amp;#8217;s one less liquid to have to travel&amp;nbsp;with.&lt;/p&gt;
+&lt;h2&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;38g&amp;nbsp;Beeswax&lt;/li&gt;
+&lt;li&gt;38g Coconut&amp;nbsp;Oil&lt;/li&gt;
+&lt;li&gt;25ml Jojoba or Grapeseed&amp;nbsp;Oil&lt;/li&gt;
+&lt;li&gt;7g Arrowroot (or&amp;nbsp;Cornstarch)&lt;/li&gt;
+&lt;li&gt;18 drops Lavender Essential&amp;nbsp;Oil&lt;/li&gt;
+&lt;li&gt;6 drops Tea Tree Essential&amp;nbsp;Oil&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Directions&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Double boil or microwave the beeswax, coconut oil, jojoba/grapeseed oil until all oils are just&amp;nbsp;liquid.&lt;/li&gt;
+&lt;li&gt;Add the essential oils and&amp;nbsp;stir&lt;/li&gt;
+&lt;li&gt;Add the arrowroot/cornstarch and stir until the powder is evenly&amp;nbsp;blended&lt;/li&gt;
+&lt;li&gt;Pour the liquid in to whatever shape forms you like. I use a [silicone brownie bite tray] (http://www.amazon.com/Wilton-2105-4923-24-Cavity-Silicone-Brownie/dp/&lt;span class="caps"&gt;B001T4URXG&lt;/span&gt;).&lt;/li&gt;
+&lt;/ol&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Koebbe</dc:creator><pubDate>Sun, 30 Nov 2014 00:00:00 -0600</pubDate><guid>tag:localhost:8000,2014-11-30:posts/2014/11/pomadehair-styling-bar/</guid><category>personal care</category><category>hair style</category><category>recipe</category></item><item><title>Yes Virginia, AT&amp;T is Throttling your Netflix</title><link>http://localhost:8000/posts/2014/07/yes-virginia-att-is-throttling-your-netflix/</link><description>&lt;p&gt;Today I read &lt;a class="reference external" href="http://hothardware.com/News/Enraged-Verizon-FiOS-Customer-Posts-Video-Seemingly-Proving-ISP-Throttles-Netflix/"&gt;this article&lt;/a&gt; via &lt;a class="reference external" href="http://yro.slashdot.org/story/14/07/26/0324226/enraged-verizon-fios-customer-seemingly-demonstrates-netflix-throttling"&gt;Slashdot&lt;/a&gt; that reported a startup &lt;span class="caps"&gt;CEO&lt;/span&gt;, who was very skeptical of Verizon&amp;#8217;s speed when it came to Netflix, decided to run a pretty simple test to see if throttling was involved. He compared the Netflix down speeds without a &lt;span class="caps"&gt;VPN&lt;/span&gt; and then with a &lt;span class="caps"&gt;VPN&lt;/span&gt;. He found a difference of 375kbps to 3000kbps, respectively. In theory the &lt;span class="caps"&gt;VPN&lt;/span&gt; should be slower because of extra hops and encryption. I had to try this for&amp;nbsp;myself.&lt;/p&gt;
+&lt;p&gt;So I have a 18mbps Uverse plan from &lt;span class="caps"&gt;AT&lt;/span&gt;&amp;amp;T. Let&amp;#8217;s see what Speedtest.net has to say about&amp;nbsp;it.&lt;/p&gt;
+&lt;img alt="" src="http://localhost:8000/images/speedtest.png" /&gt;
+&lt;p&gt;Well, I&amp;#8217;ll be, better than advertised! &lt;span class="caps"&gt;AT&lt;/span&gt;&amp;amp;T must be giving me some love. But I&amp;#8217;ve not been happy with the quality of video coming from Netflix and the regular buffering spinner that shows up, especially with &lt;a class="reference external" href="http://www.netflix.com/WiMovie/70241425"&gt;Adventure Time&lt;/a&gt; for some&amp;nbsp;reason.&lt;/p&gt;
+&lt;p&gt;Now I don&amp;#8217;t have a &lt;span class="caps"&gt;VPN&lt;/span&gt; to test out, but I do have a server on Linode that I can use as a &lt;span class="caps"&gt;SOCKS&lt;/span&gt; proxy via &lt;span class="caps"&gt;SSH&lt;/span&gt;. This basically results in the same type of test from the article. I&amp;#8217;m adding more hops and encryption. So this &lt;em&gt;should&lt;/em&gt; be&amp;nbsp;slower.&lt;/p&gt;
+&lt;img alt="" src="http://localhost:8000/images/bandwidth.png" /&gt;
+&lt;p&gt;Wow! That&amp;#8217;s a huge difference. Over the &lt;span class="caps"&gt;SOCKS&lt;/span&gt; Proxy, Adventure Time was no longer in the low quality pixelated format. It was super crisp and motion was&amp;nbsp;smooth.&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;ve tested this twice and the results have been the same. There is nothing else I can think of causing this drastic change in throughput other than &lt;span class="caps"&gt;AT&lt;/span&gt;&amp;amp;T is throttling Netflix and going over an encrypted proxy or &lt;span class="caps"&gt;VPN&lt;/span&gt; is masking the content so that &lt;span class="caps"&gt;AT&lt;/span&gt;&amp;amp;T&amp;#8217;s throttler is unable to identify it as Netflix&amp;nbsp;content.&lt;/p&gt;
+&lt;p&gt;So now the question is &amp;quot;&lt;span class="caps"&gt;AT&lt;/span&gt;&amp;amp;T, what do you have to say for&amp;nbsp;yourselves?&amp;quot;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Koebbe</dc:creator><pubDate>Tue, 29 Jul 2014 00:00:00 -0500</pubDate><guid>tag:localhost:8000,2014-07-29:posts/2014/07/yes-virginia-att-is-throttling-your-netflix/</guid></item><item><title>Installing Crashplan headless on a ReadyNAS 102</title><link>http://localhost:8000/posts/2014/06/installing-crashplan-headless-on-a-readynas-102/</link><description>&lt;p&gt;Crashplan offers a great online backup solution. Netgear ReadyNAS offers a great home/small office local network storage solution. Here&amp;#8217;s a how-to on how to set your ReadyNAS as a Crashplan&amp;nbsp;client.&lt;/p&gt;
+&lt;div class="section" id="step-1-turn-on-ssh-on-your-readynas"&gt;
+&lt;h2&gt;Step 1: Turn on &lt;span class="caps"&gt;SSH&lt;/span&gt; on your&amp;nbsp;ReadyNAS&lt;/h2&gt;
+&lt;p&gt;In the ReadyNAS admin head over to the &amp;quot;Settings&amp;quot; tab of the &amp;quot;System&amp;quot; section. Make sure that &lt;span class="caps"&gt;SSH&lt;/span&gt; is enabled. If you&amp;#8217;ve never turned it on, you will receive a message basically stating &amp;quot;With great power comes great responsibility&amp;quot;. If you&amp;#8217;re not comfortable with ssh and a linux command line, this may not be the solution for&amp;nbsp;you.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="step-2-get-crashplan-downloaded-and-installed"&gt;
+&lt;h2&gt;Step 2: Get Crashplan downloaded and&amp;nbsp;installed&lt;/h2&gt;
+&lt;p&gt;Using your favorite ssh client, ssh to your ReadyNAS &lt;span class="caps"&gt;IP&lt;/span&gt; address as &amp;quot;root&amp;quot;. The password will be the same as your web interface &amp;quot;admin&amp;quot;&amp;nbsp;password.&lt;/p&gt;
+&lt;p&gt;Head over to Crashplan&amp;#8217;s &lt;a class="reference external" href="http://www.code42.com/crashplan/thankyou/?os=linux"&gt;download page&lt;/a&gt; and get the current download &lt;span class="caps"&gt;URL&lt;/span&gt; for the linux installer. You can copy the &lt;span class="caps"&gt;URL&lt;/span&gt; from the &amp;quot;restart the download&amp;quot; link on this page. At the time of this writing the current version &lt;span class="caps"&gt;URL&lt;/span&gt; was &lt;a class="reference external" href="http://download.code42.com/installs/linux/install/CrashPlan/CrashPlan_3.6.3_Linux.tgz"&gt;http://download.code42.com/installs/linux/install/CrashPlan/CrashPlan_3.6.3_Linux.tgz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Run the following command on the ReadyNAS using the current version download &lt;span class="caps"&gt;URL&lt;/span&gt; you found on teh download&amp;nbsp;page.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;wget http://download.code42.com/installs/linux/install/CrashPlan/CrashPlan_3.6.3_Linux.tgz
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Apparently the busybox cpio is not compatible with the Crashplan installer, so we&amp;#8217;ll need to uninstall the busybox version and install the proper&amp;nbsp;version.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;apt-get remove busybox-cpio
+apt-get install cpio
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;We&amp;#8217;ll need to get a java runtime environment installed on the ReadyNAS since Crashplan is a java application. We&amp;#8217;ll also need a &lt;span class="caps"&gt;ARM&lt;/span&gt; based java library to use in place of the intel version bundled with&amp;nbsp;Crashplan.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;apt-get install openjdk-6-jre-headless
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Now you have the installer archive downloaded. It&amp;#8217;s time to decompress and run the installer. (Obviously replace the archive name with the one you&amp;nbsp;downloaded)&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;tar xvzf CrashPlan_3.6.3_Linux.tgz
+&lt;span class="nb"&gt;cd&lt;/span&gt; /CrashPlan-install
+./install.sh
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Answer the &lt;span class="caps"&gt;EULA&lt;/span&gt; and accept all of the defaults. You should get output similar to the following (&lt;span class="caps"&gt;EULA&lt;/span&gt;&amp;nbsp;removed).&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Welcome to the CrashPlan Installer.
+
+Press enter to continue with installation.
+
+Validating environment...
+  detected root permissions
+49036 blocks
+
+You must review and agree to the EULA before installation.
+
+Press enter to read the EULA.
+
+What directory do you wish to install CrashPlan to? [/usr/local/crashplan]
+
+What directory do you wish to link the CrashPlan executable to? [/usr/local/bin]
+
+What directory do you wish to store backups in? [/usr/local/var/crashplan]
+
+What directory contains your SYSV init scripts? [/etc/init.d]
+
+What directory contains your runlevel init links? [/etc/rc5.d]
+
+Your selections:
+CrashPlan will install to: /usr/local/crashplan
+And put links to binaries in: /usr/local/bin
+And store datas in: /usr/local/var/crashplan
+Your init.d dir is: /etc/init.d
+Your current runlevel directory is: /etc/rc5.d
+
+Is this correct? (y/n) [y] y
+
+Unpacking /./CrashPlan_3.6.3.cpi ...
+49036 blocks
+Starting CrashPlan Engine ... Using standard startup
+OK
+
+CrashPlan has been installed and the Service has been started automatically.
+
+Press Enter to complete installation.
+
+Important directories:
+  Installation:
+    /usr/local/crashplan
+  Logs:
+    /usr/local/crashplan/log
+  Default archive location:
+    /usr/local/var/crashplan
+
+Start Scripts:
+  sudo /usr/local/crashplan/bin/CrashPlanEngine start|stop
+  /usr/local/crashplan/bin/CrashPlanDesktop
+
+You can run the CrashPlan Desktop UI locally as your own user or connect
+a remote Desktop UI to this Service via port-forwarding and manage it
+remotely. Instructions for remote management are in the readme files
+placed in your installation directory:
+  /usr/local/crashplan/doc
+
+
+To start the Desktop UI:
+  /usr/local/bin/CrashPlanDesktop
+
+Installation is complete. Thank you for installing CrashPlan for Linux.
+&lt;/pre&gt;
+&lt;p&gt;Now Crashplan comes with a libjtux.so that compiled for intel processors. That&amp;#8217;s not going to work on our &lt;span class="caps"&gt;ARM&lt;/span&gt; based ReadyNAS, so we&amp;#8217;ll need to replace it with a &lt;span class="caps"&gt;ARM&lt;/span&gt; based&amp;nbsp;library.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://localhost:8000/static/libjtux.so.gz"&gt;Download a precompiled version here&lt;/a&gt; and make a backup copy of /usr/local/crashplan/libjtux.so, then decompress the downloaded file and put it in place of the original. Firing up the Crashplan backup engine should now work without&amp;nbsp;dieing.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;/usr/local/crashplan/bin/CrashPlanEngine start
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;So far so good. Now we need to configure the&amp;nbsp;client.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="step-3-headless-configuration"&gt;
+&lt;h2&gt;Step 3: Headless&amp;nbsp;configuration&lt;/h2&gt;
+&lt;p&gt;Since you have to configure Crashplan via a &lt;span class="caps"&gt;GUI&lt;/span&gt; and the ReadyNAS is headless, we&amp;#8217;ll need to use a desktop app to attach to the client&amp;#8217;s backend. So here&amp;#8217;s the plan: we&amp;#8217;re going to point the desktop client to a non-standard port, then forward that point (via &lt;span class="caps"&gt;SSH&lt;/span&gt; forwarding) to the correct port on the ReadyNAS. In theory we&amp;#8217;ll only need to do this to get it set up and shouldn&amp;#8217;t need to connect to it this way&amp;nbsp;again.&lt;/p&gt;
+&lt;p&gt;Let&amp;#8217;s change the port the desktop app is looking for the client backend. We&amp;#8217;ll need to modify a configuration file for this. Here are the locations for each &lt;span class="caps"&gt;OS&lt;/span&gt;.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Linux (if installed as root): /usr/local/crashplan/conf/ui.properties
+Mac: /Applications/CrashPlan.app/Contents/Resources/Java/conf/ui.properties
+Windows: C:\Program Files\CrashPlan\conf\ui.properties​
+&lt;/pre&gt;
+&lt;p&gt;In this file we should duplicate the servicePort line, uncomment one of them and set it to&amp;nbsp;4200&amp;#8230;&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+#servicePort=4243
+servicePort=4200
+&lt;/pre&gt;
+&lt;p&gt;Now we need to forward our local 4200 port to the ReadyNas&amp;#8217;s port 4243. We can do this with &lt;span class="caps"&gt;SSH&lt;/span&gt;.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;ssh -L 4200:localhost:4243 root@&lt;span class="o"&gt;[&lt;/span&gt;ReadyNAS IP&lt;span class="o"&gt;]&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Now fire up your desktop app and you should be greeted with the setup&amp;nbsp;process.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="credit-where-credit-is-due"&gt;
+&lt;h2&gt;Credit where credit is&amp;nbsp;due&lt;/h2&gt;
+&lt;p&gt;Here are the articles and threads I&amp;#8217;ve had loaded in by browser as I was working through this. Some of the above is verbatim from some of these&amp;nbsp;sites.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://forum.excito.net/viewtopic.php?f=9&amp;amp;t=3739"&gt;http://forum.excito.net/viewtopic.php?f=9&amp;amp;t=3739&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.jonrogers.co.uk/2012/05/crashplan-on-the-raspberry-pi/"&gt;http://www.jonrogers.co.uk/2012/05/crashplan-on-the-raspberry-pi/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.readynas.com/forum/viewtopic.php?f=4&amp;amp;t=60158"&gt;http://www.readynas.com/forum/viewtopic.php?f=4&amp;amp;t=60158&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Koebbe</dc:creator><pubDate>Sun, 29 Jun 2014 00:00:00 -0500</pubDate><guid>tag:localhost:8000,2014-06-29:posts/2014/06/installing-crashplan-headless-on-a-readynas-102/</guid></item><item><title>Grab and go Cold Blueberry Maple Oatmeal</title><link>http://localhost:8000/posts/2014/06/cold-buleberry-oatmeal/</link><description>&lt;p&gt;I&amp;#8217;m a big fan of old fashioned rolled oats with blueberries and brown sugar. But by the time I&amp;#8217;ve microwaved it and let it cool, my son is already done with his breakfast and wanting to play. Plus cleaning stuck on cooked oats from the bowl is really a pain. I found &lt;a class="reference external" href="http://www.theyummylife.com/Refrigerator_Oatmeal"&gt;these recipes&lt;/a&gt;  on The Yummy Life. These are great recipes but I&amp;#8217;ve come to the conclusion that dry measurements should be in measured in mass (grams) and not volume (cups). Plus it&amp;#8217;s really nice to not have to mess with so many measuring utensils when you can just use a digital scale and zero it out after each ingredient. So I&amp;#8217;ve converted the measurements below for the &lt;a class="reference external" href="http://www.theyummylife.com/recipes/220"&gt;Blueberry Maple&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="section" id="ingredients"&gt;
+&lt;h2&gt;Ingredients&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;25 grams Old Fashioned Rolled&amp;nbsp;Oats&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;7 grams Chia&amp;nbsp;Seed&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1/3 cup Milk&lt;/strong&gt; - &lt;em&gt;I&amp;#8217;ve used 2% but you should be able to get away with any&amp;nbsp;milk&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1/4 cup Greek Yogurt&lt;/strong&gt; - &lt;em&gt;This turned out to be around 85g for the brand I&amp;nbsp;have&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2 teaspoons Maple Syrup&lt;/strong&gt; - &lt;em&gt;Use the real stuff,&amp;nbsp;people&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;45 grams blueberries, frozen or fresh&lt;/strong&gt; - &lt;em&gt;Obviously this amount is&amp;nbsp;preference&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="directions"&gt;
+&lt;h2&gt;Directions&lt;/h2&gt;
+&lt;p&gt;Pretty simple. Mix all the ingredients in a sealable container like a mason jar. I&amp;#8217;d recommend putting the blueberries in last after mixing the other ingredients, especially if they are fresh. Otherwise they may break apart. Put it in the fridge overnight. It should last for a few days so you can frontload your breakfasts for the&amp;nbsp;week.&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Koebbe</dc:creator><pubDate>Mon, 09 Jun 2014 15:33:00 -0500</pubDate><guid>tag:localhost:8000,2014-06-09:posts/2014/06/cold-buleberry-oatmeal/</guid><category>breakfast</category><category>oatmeal</category><category>recipe</category></item><item><title>Taking stylesheets to school with Sass, Compass and Susy (Part 3)</title><link>http://localhost:8000/posts/2013/05/taking-stylesheets-to-school-with-sass-compass-and-susy-part-3/</link><description>&lt;!--  --&gt;
+&lt;blockquote&gt;
+This article was based on Susy 1.0. So it is outdated (unless you use the &lt;a class="reference external" href="http://susydocs.oddbird.net/en/latest/susyone/"&gt;susyone&lt;/a&gt; import). Please see &lt;a class="reference external" href="http://susydocs.oddbird.net/en/latest/upgrade/"&gt;Susy&amp;#8217;s upgrade path doc&lt;/a&gt; for more information on what has changed between version 1 and 2. I hope to have a new article about version 2 in the near future.&lt;/blockquote&gt;
+&lt;p&gt;In &lt;a class="reference external" href="http://localhost:8000/posts/2013/05/taking-stylesheets-to-school-with-sass-compass-and-susy-part-1/"&gt;part 1&lt;/a&gt; and &lt;a class="reference external" href="http://localhost:8000/posts/2013/05/taking-stylesheets-to-school-with-sass-compass-and-susy-part-2/"&gt;part 2&lt;/a&gt; we covered the problem of &lt;span class="caps"&gt;CSS&lt;/span&gt; and the solution of Sass and Compass. But what about those fancy grid frameworks that use presentational class names? How can we leverage Sass to get a great responsive grid system and have our semantic class&amp;nbsp;names?&lt;/p&gt;
+&lt;div class="section" id="part-3-responsive-stylesheets-and-grid-layout-with-susy"&gt;
+&lt;h2&gt;Part 3: Responsive stylesheets and grid layout with&amp;nbsp;Susy&lt;/h2&gt;
+&lt;p&gt;There are a number of widely used &lt;span class="caps"&gt;CSS&lt;/span&gt; grid frameworks. They help keep content aligned and offer standardized units (columns) to size and place your content on the page. These can be great for prototyping, but the downfall of most of these frameworks is the use of presentational class names. And we know that&amp;#8217;s a&amp;nbsp;no-no.&lt;/p&gt;
+&lt;p&gt;Responsive design is becoming a common feature of most of our projects as mobile browsing is on its way to surpassing desktop browsing. &lt;span class="caps"&gt;CSS&lt;/span&gt; Media Queries allow different styles to be applied based on different capabilities of the screen displaying the website, though screen width is by far the most common condition. Media queries are great because of what they allow us to do, but they can be unwieldy as&amp;nbsp;well.&lt;/p&gt;
+&lt;p&gt;Let&amp;#8217;s say we&amp;#8217;ve got a two-column section of our site that needs to respond to smaller screens by adjusting to a one-column layout. We&amp;#8217;d set our &amp;quot;columns” to &amp;quot;50%” and float them. Then we&amp;#8217;d create a media query and adjust&amp;nbsp;them.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;CSS&lt;/span&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;section&lt;/span&gt;&lt;span class="nc"&gt;.overview&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nt"&gt;section&lt;/span&gt;&lt;span class="nc"&gt;.detail&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="k"&gt;width&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;50%&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="k"&gt;float&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="k"&gt;left&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="k"&gt;@media&lt;/span&gt; &lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="nt"&gt;min-width&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="nt"&gt;600px&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="nt"&gt;section&lt;/span&gt;&lt;span class="nc"&gt;.overview&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nt"&gt;section&lt;/span&gt;&lt;span class="nc"&gt;.detail&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+    &lt;span class="k"&gt;width&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;100%&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+    &lt;span class="k"&gt;float&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="k"&gt;none&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This is fine for a handful of layout adjustments, but when you have a large number, you are forced to either have a number of &amp;#64;media statements throughout your code or set up one block of all the adjustments even though they may not be near the original&amp;nbsp;style.&lt;/p&gt;
+&lt;p&gt;It would be great to harness the power of Sass&amp;#8217;s nesting and mixin features to make grids and media queries simpler. I&amp;#8217;ve got a friend named Susy that can help with&amp;nbsp;that.&lt;/p&gt;
+&lt;p&gt;The Susy developers have a great &lt;a class="reference external" href="http://susydocs.oddbird.net/en/latest/install/"&gt;&amp;quot;getting started” guide&lt;/a&gt; to show you how to install&amp;nbsp;Susy.&lt;/p&gt;
+&lt;div class="section" id="susy-s-grid-skills"&gt;
+&lt;h3&gt;Susy&amp;#8217;s grid&amp;nbsp;skills&lt;/h3&gt;
+&lt;p&gt;Susy needs a few variables to get started — things such as how many columns you want to start with and what size and padding those columns should have. Keep in mind that you can use any units of measure for the variables, but make sure you use the same unit of measure for all of Susy&amp;#8217;s variables. Then we need to set our grid container and the magic&amp;nbsp;begins.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;SCSS&lt;/span&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="k"&gt;@import&lt;/span&gt; &lt;span class="n"&gt;susy&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+
+&lt;span class="nv"&gt;$total-columns&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;12&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;           &lt;span class="c1"&gt;// The number of columns you want&lt;/span&gt;
+&lt;span class="nv"&gt;$column-width&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;4&lt;/span&gt;&lt;span class="kt"&gt;em&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;           &lt;span class="c1"&gt;// How wide each column should be.&lt;/span&gt;
+&lt;span class="nv"&gt;$gutter-width&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="kt"&gt;em&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;           &lt;span class="c1"&gt;// Spacing between columns&lt;/span&gt;
+&lt;span class="nv"&gt;$grid-padding&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="nv"&gt;$gutter-width&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="c1"&gt;// Padding on outside the grid&lt;/span&gt;
+
+&lt;span class="nn"&gt;#page&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="k"&gt;@include&lt;/span&gt;&lt;span class="nd"&gt; container&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Now that we&amp;#8217;ve got Susy started, we can bring our &amp;quot;overview” and &amp;quot;detail” section classes in from the previous example and set them up in&amp;nbsp;Susy.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;SCSS&lt;/span&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;section&lt;/span&gt;&lt;span class="nc"&gt;.overview&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nt"&gt;section&lt;/span&gt;&lt;span class="nc"&gt;.detail&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="k"&gt;@include&lt;/span&gt;&lt;span class="nd"&gt; span-columns&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;6&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="nt"&gt;section&lt;/span&gt;&lt;span class="nc"&gt;.detail&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="k"&gt;@include&lt;/span&gt;&lt;span class="nd"&gt; omega&lt;/span&gt; &lt;span class="c1"&gt;// Omega tells susy this is the last item in the row&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Compiled &lt;span class="caps"&gt;CSS&lt;/span&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;section&lt;/span&gt;&lt;span class="nc"&gt;.overview&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nt"&gt;section&lt;/span&gt;&lt;span class="nc"&gt;.detail&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="k"&gt;width&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;49.15254%&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="k"&gt;float&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="k"&gt;left&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="k"&gt;margin-right&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;1.69492%&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="k"&gt;display&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="k"&gt;inline&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+
+&lt;span class="nt"&gt;section&lt;/span&gt;&lt;span class="nc"&gt;.detail&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="k"&gt;float&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="k"&gt;right&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="k"&gt;margin-right&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="m"&gt;#margin&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="k"&gt;left&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;-1em&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="k"&gt;display&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="k"&gt;inline&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Wait, what&amp;#8217;s with the percentages? I used &amp;quot;em” as my unit of measure. Susy does the calculations for you and converts the unit to percentages so that your design is fluid. This can be changed with the $container-style variable if you don&amp;#8217;t want a fluid behavior. You can also see that Susy puts in some cross-browser tweaks to make that unmentionable browser&amp;nbsp;happy.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="susy-s-responsive-skills"&gt;
+&lt;h3&gt;Susy&amp;#8217;s responsive&amp;nbsp;skills&lt;/h3&gt;
+&lt;p&gt;Now it&amp;#8217;s time to get responsive. Susy brought a handy at-breakpoint mixin to the party that can be nested in the styles we want to&amp;nbsp;adjust.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;SCSS&lt;/span&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;section&lt;/span&gt;&lt;span class="nc"&gt;.overview&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nt"&gt;section&lt;/span&gt;&lt;span class="nc"&gt;.detail&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="k"&gt;@include&lt;/span&gt;&lt;span class="nd"&gt; span-columns&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;6&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+
+  &lt;span class="c1"&gt;// at-breakpoint(&amp;lt;min-width&amp;gt; &amp;lt;layout&amp;gt; &amp;lt;max-width&amp;gt; &amp;lt;ie-fallback&amp;gt;)&lt;/span&gt;
+  &lt;span class="k"&gt;@include&lt;/span&gt;&lt;span class="nd"&gt; at-breakpoint&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;4&lt;/span&gt; &lt;span class="mi"&gt;600&lt;/span&gt;&lt;span class="kt"&gt;px&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="c1"&gt;// Tell susy to switch to a 4 column grid at 600px&lt;/span&gt;
+    &lt;span class="k"&gt;@include&lt;/span&gt;&lt;span class="nd"&gt; span-columns&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;4&lt;/span&gt; &lt;span class="n"&gt;omega&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+  &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="nt"&gt;section&lt;/span&gt;&lt;span class="nc"&gt;.detail&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="k"&gt;@include&lt;/span&gt;&lt;span class="nd"&gt; omega&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="c1"&gt;// Omega tells susy this is the last item in the row&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Compiled &lt;span class="caps"&gt;CSS&lt;/span&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;section&lt;/span&gt;&lt;span class="nc"&gt;.overview&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nt"&gt;section&lt;/span&gt;&lt;span class="nc"&gt;.detail&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="k"&gt;width&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;49.15254%&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="k"&gt;float&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="k"&gt;left&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="k"&gt;margin-right&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;1.69492%&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="k"&gt;display&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="k"&gt;inline&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+
+&lt;span class="k"&gt;@media&lt;/span&gt; &lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="nt"&gt;max-width&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="nt"&gt;600px&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="nt"&gt;section&lt;/span&gt;&lt;span class="nc"&gt;.overview&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nt"&gt;section&lt;/span&gt;&lt;span class="nc"&gt;.detail&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+    &lt;span class="k"&gt;width&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;100%&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+    &lt;span class="k"&gt;float&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="k"&gt;right&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+    &lt;span class="k"&gt;margin-right&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+
+&lt;span class="nt"&gt;section&lt;/span&gt;&lt;span class="nc"&gt;.detail&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="k"&gt;float&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="k"&gt;right&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="k"&gt;margin-right&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="m"&gt;#margin&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="k"&gt;left&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;-1em&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="k"&gt;display&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="k"&gt;inline&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;You can see how easy responsive styles are with the at-breakpoint mixin. Right where you define the default layout you can specify all of your breakpoint changes without leaving the definition of the original style. Of course this mixin can work with any style changes (for example, color, display, font, etc.), not just column&amp;nbsp;spanning.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="susy-next"&gt;
+&lt;h3&gt;Susy&amp;nbsp;Next&lt;/h3&gt;
+&lt;p&gt;It&amp;#8217;s worth noting that Susy is poised to merge with complementary projects to make it even more powerful. The list of developers on board with this initiative is pretty staggering. &lt;a class="reference external" href="http://oddbird.net/2013/01/01/susy-next/"&gt;Great things are in store&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="sass-compass-and-susy-in-drupal"&gt;
+&lt;h3&gt;Sass, Compass and Susy in&amp;nbsp;Drupal&lt;/h3&gt;
+&lt;p&gt;A large portion of &lt;span class="caps"&gt;VML&lt;/span&gt; projects use Drupal as the &lt;span class="caps"&gt;CMS&lt;/span&gt;. Because Sass is platform-agnostic, we&amp;#8217;ve been able to leverage all of these technologies into the themes of our Drupal&amp;nbsp;projects.&lt;/p&gt;
+&lt;p&gt;Susy&amp;#8217;s container-style variable allowed us to set the responsive behavior to a fixed style. The exact width of the container is clearly defined and not fluid. As screens vary slightly, the margin on either side of the page adjusts, but not the content, until you get to a&amp;nbsp;breakpoint.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="gaining-ground-in-the-drupal-community"&gt;
+&lt;h3&gt;Gaining ground in the Drupal&amp;nbsp;Community&lt;/h3&gt;
+&lt;p&gt;Recently a &lt;a class="reference external" href="http://groups.drupal.org/node/236988"&gt;discussion&lt;/a&gt; regarding the theme used for drupal.org (Bluecheese) led the community to select Susy as the framework for refactoring Bluecheese. With this decision, more Drupal themes will start adopting Susy for their responsive and grid&amp;nbsp;features.&lt;/p&gt;
+&lt;p&gt;Using these technologies in our projects allows us to be more nimble and efficient as our creative teams continue to push the envelope of design and&amp;nbsp;experience.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Koebbe</dc:creator><pubDate>Thu, 16 May 2013 00:00:00 -0500</pubDate><guid>tag:localhost:8000,2013-05-16:posts/2013/05/taking-stylesheets-to-school-with-sass-compass-and-susy-part-3/</guid><category>sass</category><category>compass</category><category>susy</category><category>css</category></item><item><title>Taking stylesheets to school with Sass, Compass and Susy (Part 2)</title><link>http://localhost:8000/posts/2013/05/taking-stylesheets-to-school-with-sass-compass-and-susy-part-2/</link><description>&lt;p&gt;In the &lt;a class="reference external" href="http://localhost:8000/posts/2013/05/taking-stylesheets-to-school-with-sass-compass-and-susy-part-1/"&gt;previous article&lt;/a&gt; we bemoaned the failures and shortcomings of the &lt;span class="caps"&gt;CSS&lt;/span&gt; syntax. Sass shores up all of those failings and give us the power to logically structure and generate semantic&amp;nbsp;stylesheets.&lt;/p&gt;
+&lt;div class="section" id="part-2-sass-you-had-me-at-nested-selectors"&gt;
+&lt;h2&gt;Part 2: Sass, you had me at &amp;quot;nested&amp;nbsp;selectors”&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://sass-lang.com/"&gt;Sass&lt;/a&gt; is a scripting language that processes its own stylesheet syntax into regular &lt;span class="caps"&gt;CSS&lt;/span&gt; files (a &lt;span class="caps"&gt;CSS&lt;/span&gt; pre-processor). This is not done browser-side or server-side. The resulting &lt;span class="caps"&gt;CSS&lt;/span&gt; is compiled on save as you&amp;nbsp;develop.&lt;/p&gt;
+&lt;p&gt;Before I get in to the details of Sass, there are a number of other &lt;span class="caps"&gt;CSS&lt;/span&gt; pre-processors that are great, such as &lt;a class="reference external" href="http://learnboost.github.io/stylus/"&gt;Stylus&lt;/a&gt; and &lt;a class="reference external" href="http://lesscss.org/"&gt;Less&lt;/a&gt;. In my opinion, it&amp;#8217;s a matter of preference, as they can handle nearly all the same functionality and their syntaxes are similarly structured. I personally prefer Sass, but I hold no ill will to those who prefer&amp;nbsp;alternatives.&lt;/p&gt;
+&lt;p&gt;Sass has two syntaxes to choose from: &lt;span class="caps"&gt;SCSS&lt;/span&gt; and &lt;span class="caps"&gt;SASS&lt;/span&gt;. &lt;span class="caps"&gt;SCSS&lt;/span&gt; looks similar to the syntax of plain &lt;span class="caps"&gt;CSS&lt;/span&gt; and so I recommend that syntax for newcomers. &lt;span class="caps"&gt;SASS&lt;/span&gt; syntax is akin to Ruby or Python&amp;#8217;s syntax. Switching between the two syntaxes is easy with the &amp;quot;sass-convert” command. So you can start with one syntax and switch whenever you like. In this article, we&amp;#8217;ll use &lt;span class="caps"&gt;SCSS&lt;/span&gt; syntax for&amp;nbsp;examples.&lt;/p&gt;
+&lt;div class="section" id="sass-isn-t-just-for-ruby-developers"&gt;
+&lt;h3&gt;Sass isn&amp;#8217;t just for Ruby&amp;nbsp;developers&lt;/h3&gt;
+&lt;p&gt;Sass is written in Ruby, but don&amp;#8217;t freak out if you don&amp;#8217;t know Ruby. It can stand alone on any project, regardless of your development stack. Sass can be installed on any system with Ruby or you can use one of the GUIs available, which have a self-contained Ruby environment built in (though adding Sass extension Ruby gems can be problematic with the&amp;nbsp;latter).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="nested-selectors"&gt;
+&lt;h3&gt;Nested&amp;nbsp;selectors&lt;/h3&gt;
+&lt;p&gt;One of the simplest yet most appreciated features of Sass is the ability to nest your styles within other&amp;nbsp;styles.&lt;/p&gt;
+&lt;p&gt;Sass (&lt;span class="caps"&gt;SCSS&lt;/span&gt;&amp;nbsp;Syntax)&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;article&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nc"&gt;.post&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="na"&gt;width&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;50&lt;/span&gt;&lt;span class="kt"&gt;%&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nc"&gt;.title&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+    &lt;span class="na"&gt;font-weight&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="no"&gt;bold&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="p"&gt;}&lt;/span&gt;
+  &lt;span class="nc"&gt;.body&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+    &lt;span class="na"&gt;font-size&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mf"&gt;.9&lt;/span&gt;&lt;span class="kt"&gt;em&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Compiled &lt;span class="caps"&gt;CSS&lt;/span&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;article&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nc"&gt;.post&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="k"&gt;width&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;50%&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="nt"&gt;article&lt;/span&gt; &lt;span class="nc"&gt;.title&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nc"&gt;.post&lt;/span&gt; &lt;span class="nc"&gt;.title&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="k"&gt;font-weight&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="k"&gt;bold&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="nt"&gt;article&lt;/span&gt; &lt;span class="nc"&gt;.body&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nc"&gt;.post&lt;/span&gt; &lt;span class="nc"&gt;.body&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="k"&gt;font-size&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;.9em&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This makes refactoring your class names a piece of cake. Just change the &amp;quot;.post” class selector in one place and you&amp;#8217;re done. This also makes organizing your styles nearly&amp;nbsp;automatic.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="variables"&gt;
+&lt;h3&gt;Variables&lt;/h3&gt;
+&lt;p&gt;One of my biggest frustrations with &lt;span class="caps"&gt;CSS&lt;/span&gt; is the lack of variables. Sass provides you with a standard set of variables types: strings, numbers, colors, Booleans and lists — pretty much anything you might need to store when building your styles. Variables are denoted by the prefix of the familiar dollar sign ($) and values are assigned with a colon, just as values are assigned to &lt;span class="caps"&gt;CSS&lt;/span&gt;&amp;nbsp;attributes.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="arithmetic-color-functions-and-parent-selectors"&gt;
+&lt;h3&gt;Arithmetic, color functions and parent&amp;nbsp;selectors&lt;/h3&gt;
+&lt;p&gt;We can use the aforementioned variables to hold things such as common colors, lengths and font families, but we can use some built-in Sass functions to gain more flexibility in our styles. There are the basic math functions we&amp;#8217;re used to (+, -, *, /, %), which take into account units of measure. But we also have some great color functions such as lighten, darken, saturate, desaturate, adjust-hue, complement and invert. These color functions can make color schemes programmatic rather than a guessing&amp;nbsp;game.&lt;/p&gt;
+&lt;p&gt;Sass (&lt;span class="caps"&gt;SCSS&lt;/span&gt;&amp;nbsp;syntax)&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nv"&gt;$link-color&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mh"&gt;#2e6d5a&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+
+&lt;span class="nt"&gt;a&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="na"&gt;color&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="nv"&gt;$link-color&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="k"&gt;&amp;amp;&lt;/span&gt;&lt;span class="nd"&gt;:hover&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+    &lt;span class="na"&gt;color&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="nf"&gt;complement&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;$link-color&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+    &lt;span class="na"&gt;text-decoration&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="no"&gt;none&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+    &lt;span class="na"&gt;background-color&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="nf"&gt;lighten&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;$link-color&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;50&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+  &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Compiled &lt;span class="caps"&gt;CSS&lt;/span&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;a&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="k"&gt;color&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;#2e6d5a&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="nd"&gt;:hover&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="k"&gt;color&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;#6d2e41&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="k"&gt;text-decoration&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="k"&gt;none&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="k"&gt;background-color&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;#b9e1d5&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;We can change the $link-color variable to another color and the rest of the colors will be recalculated automatically. In theory you could have Sass build the entire color scheme for your site based on one color&amp;nbsp;variable.&lt;/p&gt;
+&lt;p&gt;Ok, so what&amp;#8217;s that ampersand (&amp;amp;) doing there? The ampersand allows you to bring the parent selector into the mix without having to reiterate the parent with a class in another selector. Without the ampersand, the &amp;quot;:hover” pseudo class would only apply to the children of the &amp;quot;a” selector, not the &amp;quot;a” itself. This is not limited to pseudo classes (for example, hover). Any class or &lt;span class="caps"&gt;ID&lt;/span&gt; can be used with an ampersand&amp;nbsp;prefix.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="mixins"&gt;
+&lt;h3&gt;Mixins&lt;/h3&gt;
+&lt;p&gt;The most powerful part of Sass is scripting functions, called mixins, that accept parameters and output computed styles or values. These work similarly to functions that we are used to in our front-end or back-end coding languages. First we define a mixin with the &amp;quot;&amp;#64;mixin” directive and then we use the mixin with the &amp;quot;&amp;#64;include”&amp;nbsp;directive.&lt;/p&gt;
+&lt;p&gt;Sass (&lt;span class="caps"&gt;SCSS&lt;/span&gt;&amp;nbsp;syntax)&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="k"&gt;@mixin&lt;/span&gt;&lt;span class="nf"&gt; big-and-bold&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;$color&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="na"&gt;font-family&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Arial&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="na"&gt;font-size&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;36&lt;/span&gt;&lt;span class="kt"&gt;px&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="na"&gt;font-weight&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="no"&gt;bold&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="na"&gt;color&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="nv"&gt;$color&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="na"&gt;border&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="kt"&gt;px&lt;/span&gt; &lt;span class="no"&gt;solid&lt;/span&gt; &lt;span class="nf"&gt;darken&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;$color&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;20&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+
+&lt;span class="nt"&gt;h1&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="k"&gt;@include&lt;/span&gt;&lt;span class="nd"&gt; big-and-bold&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mh"&gt;#ffee55&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Compiled &lt;span class="caps"&gt;CSS&lt;/span&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;h1&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="k"&gt;font-family&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Arial&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="k"&gt;font-size&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;36px&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="k"&gt;font-weight&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="k"&gt;bold&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="k"&gt;color&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;#ffee55&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="k"&gt;border&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;1px&lt;/span&gt; &lt;span class="k"&gt;solid&lt;/span&gt; &lt;span class="m"&gt;#eed600&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;If you just want to reuse a block of styles in other selectors (without parameter input), check out the &amp;quot;&amp;#64;extend” directive to bring in another selector&amp;#8217;s&amp;nbsp;styles.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="pimp-your-sass-with-compass"&gt;
+&lt;h3&gt;Pimp your Sass with&amp;nbsp;Compass&lt;/h3&gt;
+&lt;p&gt;With all of these features of Sass (and more), other tools can be built to provide mixins and additional useful functionality to Sass. That&amp;#8217;s exactly what &lt;a class="reference external" href="http://compass-style.org/"&gt;Compass&lt;/a&gt; does. It extends Sass with tons of cross-browser mixins and functions that make styling even easier and more powerful. We&amp;#8217;ll touch on only a few of my favorite features of&amp;nbsp;Compass.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="cross-browser-mixins"&gt;
+&lt;h3&gt;Cross-browser&amp;nbsp;Mixins&lt;/h3&gt;
+&lt;p&gt;The bane of every web developer&amp;#8217;s existence is dealing with the inconsistencies across browsers. While the worst offending browsers need not be named, even some of the most standards-compliant browsers have their differences. Compass has a number of mixins meant to ease the coding of certain tasks that tend to need extra help when working in differing browsers. Gradients and shadows are commonly cross-browser incompatible without knowing exactly the right syntax and attributes to use. Compass has mixins for&amp;nbsp;those.&lt;/p&gt;
+&lt;p&gt;Sass (&lt;span class="caps"&gt;SCSS&lt;/span&gt;&amp;nbsp;syntax)&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nc"&gt;.cool-section&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="k"&gt;@include&lt;/span&gt;&lt;span class="nd"&gt; box-shadow&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;red&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="kt"&gt;px&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="kt"&gt;px&lt;/span&gt; &lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="kt"&gt;px&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+  &lt;span class="k"&gt;@include&lt;/span&gt;&lt;span class="nd"&gt; filter-gradient&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;white&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="mh"&gt;#aaaaaa&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+  &lt;span class="k"&gt;@include&lt;/span&gt;&lt;span class="nd"&gt; background-image&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nf"&gt;linear-gradient&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;white&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="mh"&gt;#aaaaaa&lt;/span&gt;&lt;span class="p"&gt;));&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Compiled &lt;span class="caps"&gt;CSS&lt;/span&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nc"&gt;.cool-section&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;webkit&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;box&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;shadow&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;0px&lt;/span&gt; &lt;span class="m"&gt;0px&lt;/span&gt; &lt;span class="m"&gt;5px&lt;/span&gt; &lt;span class="m"&gt;#333333&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;moz&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;box&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;shadow&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;0px&lt;/span&gt; &lt;span class="m"&gt;0px&lt;/span&gt; &lt;span class="m"&gt;5px&lt;/span&gt; &lt;span class="m"&gt;#333333&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="n"&gt;box&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;shadow&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;0px&lt;/span&gt; &lt;span class="m"&gt;0px&lt;/span&gt; &lt;span class="m"&gt;5px&lt;/span&gt; &lt;span class="m"&gt;#333333&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;zoom&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;1&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="n"&gt;filter&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="n"&gt;progid&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="n"&gt;DXImageTransform&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Microsoft&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;gradient&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;gradientType&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="n"&gt;startColorstr&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;#FFFFFFFF&amp;#39;&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="n"&gt;endColorstr&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;#FFAAAAAA&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+  &lt;span class="k"&gt;background-image&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;webkit&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;gradient&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;linear&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="m"&gt;50%&lt;/span&gt; &lt;span class="m"&gt;0%&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="m"&gt;50%&lt;/span&gt; &lt;span class="m"&gt;100%&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="k"&gt;color&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;stop&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="m"&gt;0%&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="m"&gt;#ffffff&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="k"&gt;color&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;stop&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="m"&gt;100%&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="m"&gt;#aaaaaa&lt;/span&gt;&lt;span class="p"&gt;));&lt;/span&gt;
+  &lt;span class="k"&gt;background-image&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;webkit&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;linear&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;gradient&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="m"&gt;#ffffff&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="m"&gt;#aaaaaa&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+  &lt;span class="k"&gt;background-image&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;moz&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;linear&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;gradient&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="m"&gt;#ffffff&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="m"&gt;#aaaaaa&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+  &lt;span class="k"&gt;background-image&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;o&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;linear&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;gradient&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="m"&gt;#ffffff&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="m"&gt;#aaaaaa&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+  &lt;span class="k"&gt;background-image&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;ms&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;linear&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;gradient&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="m"&gt;#ffffff&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="m"&gt;#aaaaaa&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+  &lt;span class="k"&gt;background-image&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="n"&gt;linear&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;gradient&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="m"&gt;#ffffff&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="m"&gt;#aaaaaa&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;You can see how the Compass mixins can make life a lot easier when dealing with cross-browser&amp;nbsp;development.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="automatic-sprites"&gt;
+&lt;h3&gt;Automatic&amp;nbsp;sprites&lt;/h3&gt;
+&lt;p&gt;Compass has some &lt;a class="reference external" href="http://compass-style.org/help/tutorials/spriting/"&gt;magical sprite functions&lt;/a&gt; that blew my mind when I first saw them in action. Let&amp;#8217;s be honest, sprites are great for load times and bandwidth management, but making sprite maps can be a pain, especially if you have to add sprites to your map as you develop. While there are services and applications to help ease the pain, with Compass you don&amp;#8217;t even have to think about it. Just throw your new sprite in a directory and Compass does the&amp;nbsp;rest.&lt;/p&gt;
+&lt;p&gt;Just set up a directory in your images folder to hold your individual sprites. Let&amp;#8217;s say &amp;quot;danger.png” and &amp;quot;alert.png” are in &amp;quot;images/my-icons.” In your Sass file, import that directory and use the auto-prefixed mixins to bring in each&amp;nbsp;sprite.&lt;/p&gt;
+&lt;p&gt;Sass (&lt;span class="caps"&gt;SCSS&lt;/span&gt;&amp;nbsp;syntax)&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="k"&gt;@import&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;my-icons/*.png&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+
+&lt;span class="nc"&gt;.warning&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="k"&gt;@include&lt;/span&gt;&lt;span class="nd"&gt; my-icons-sprite&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;&lt;/span&gt;&lt;span class="s2"&gt;danger&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="nc"&gt;.notice&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="k"&gt;@include&lt;/span&gt;&lt;span class="nd"&gt; my-icons-sprite&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;&lt;/span&gt;&lt;span class="s2"&gt;alert&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Compiled &lt;span class="caps"&gt;CSS&lt;/span&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nc"&gt;.warning&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="nc"&gt;.notice&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="k"&gt;background&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="sx"&gt;url(&amp;#39;../../images/my-icons-sb224dcc2e7.png&amp;#39;)&lt;/span&gt; &lt;span class="k"&gt;no-repeat&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="nc"&gt;.warning&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="k"&gt;background-position&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt; &lt;span class="m"&gt;-56px&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="nc"&gt;.notice&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="k"&gt;background-position&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Now you have automatic sprite management. Compass creates the sprite map during compilation and keeps track of the location of the sprites on the map. Adding a sprite is easy. Put the new sprite into your sprite directory, add the selector, call the &amp;quot;my-icons-sprite” mixin in your Sass file and you&amp;#8217;re&amp;nbsp;finished.&lt;/p&gt;
+&lt;p&gt;These are just two of the many features of Compass. More information can be found at &lt;a class="reference external" href="http://compass-style.org/"&gt;http://compass-style.org/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Sass and Compass make light work of complex and scalable styles. Wouldn&amp;#8217;t it be great if there were a way to do the same with responsive design and media queries? Have you met my friend&amp;nbsp;Susy?&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://localhost:8000/posts/2013/05/taking-stylesheets-to-school-with-sass-compass-and-susy-part-3/"&gt;Continue to Part&amp;nbsp;3&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Koebbe</dc:creator><pubDate>Wed, 15 May 2013 00:00:00 -0500</pubDate><guid>tag:localhost:8000,2013-05-15:posts/2013/05/taking-stylesheets-to-school-with-sass-compass-and-susy-part-2/</guid><category>sass</category><category>compass</category><category>susy</category><category>css</category></item><item><title>Taking stylesheets to school with Sass, Compass and Susy (Part 1)</title><link>http://localhost:8000/posts/2013/05/taking-stylesheets-to-school-with-sass-compass-and-susy-part-1/</link><description>&lt;p&gt;At work our development teams strive to be more efficient and develop in a way that lets us scale as needed while not coding ourselves into a corner when a client&amp;#8217;s needs change and grow. Implementing the fantastic creative we receive from our design and user experience experts must be done with a solid foundation of markup and&amp;nbsp;stylesheets.&lt;/p&gt;
+&lt;div class="section" id="part-1-the-problem-with-css"&gt;
+&lt;h2&gt;Part 1: The problem with &lt;span class="caps"&gt;CSS&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Any web developer understands the power and frustration of stylesheets. Ever since browsers adopted &lt;span class="caps"&gt;CSS&lt;/span&gt;, web developers have been bringing more design elements into websites. One of the greatest benefits of stylesheets is keeping all your site styles in one location. But there&amp;#8217;s a problem with stylesheets. &lt;span class="caps"&gt;CSS&lt;/span&gt; has a terrible syntax for selector hierarchy, making it difficult to manage when you have a lot of&amp;nbsp;styles.&lt;/p&gt;
+&lt;div class="section" id="why-not-use-presentational-class-names"&gt;
+&lt;h3&gt;Why not use presentational class&amp;nbsp;names?&lt;/h3&gt;
+&lt;p&gt;I know some will say, &amp;quot;You&amp;#8217;re doing it wrong if your selectors are too long. Use presentational class names. Just make a bunch of classes for each of the common design aspects (for example, font color, font size, background color, borders) and just slap them on your markup element whenever you need&amp;nbsp;them.”&lt;/p&gt;
+&lt;p&gt;So let&amp;#8217;s follow that solution through. If we have a common font color of green in a number of places and we make a common class style called &amp;quot;.green-font,” we can put this class name on all the elements on the site that need a green font. So far, so good. Then we get an email from the creative team stating that the client wants to change the font color to blue. &lt;span class="caps"&gt;OK&lt;/span&gt;. We change the &amp;quot;color” attribute to blue in our &lt;span class="caps"&gt;CSS&lt;/span&gt;, but our class name is still &amp;quot;.green-font.” So we can either leave the class name as is and confuse ourselves later when we try to find that blue font color, or we can change the class name and go through all of our markup and replace the &amp;quot;green-font” with the new &amp;quot;blue-font” class. I think we&amp;#8217;d rather avoid that potential&amp;nbsp;problem.&lt;/p&gt;
+&lt;p&gt;One solution is to use more abstract classes, such as &amp;quot;loud-text,” but we&amp;#8217;ll still run into a problem of really cluttered class attributes on our&amp;nbsp;elements:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;div&lt;/span&gt; &lt;span class="na"&gt;class=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;loud-text border1 background-dark body-font&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This can quickly get unmanageable, especially when you&amp;#8217;re dealing with multiple nested templates in a &lt;span class="caps"&gt;CMS&lt;/span&gt;. This is why presentational class names should be avoided. This also goes for traditional &lt;span class="caps"&gt;CSS&lt;/span&gt; frameworks (for example, Blueprint and Skeleton). Put simply, your markup should not mention your design aspects, only the semantics of your content. For tips on creating semantic markup see &lt;a class="reference external" href="http://css-tricks.com/semantic-class-names/"&gt;http://css-tricks.com/semantic-class-names/&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="use-the-right-tool-for-the-job"&gt;
+&lt;h3&gt;Use the right tool for the&amp;nbsp;job&lt;/h3&gt;
+&lt;p&gt;There&amp;#8217;s a practice going on in web development of using almost nothing but &lt;span class="caps"&gt;DIV&lt;/span&gt; and &lt;span class="caps"&gt;SPAN&lt;/span&gt; as elements (tags) in markup. While they have their place in our tool box, these elements should be used if nothing else seems to apply. I&amp;#8217;ve seen code that doesn&amp;#8217;t use any header tags (H1, H2, H3, etc.). The heading copy was wrapped in DIVs and styled to look like headings. I understand that a developer may be trying to avoid the variance in default browser styles, but this fails in many situations, including search engine optimization (&lt;span class="caps"&gt;SEO&lt;/span&gt;) and accessibility. Sometimes we miss out on the additional markup elements such as &lt;span class="caps"&gt;EM&lt;/span&gt;, &lt;span class="caps"&gt;STRONG&lt;/span&gt;, &lt;span class="caps"&gt;CODE&lt;/span&gt;, &lt;span class="caps"&gt;CITE&lt;/span&gt;, &lt;span class="caps"&gt;DL&lt;/span&gt;/&lt;span class="caps"&gt;DT&lt;/span&gt;/&lt;span class="caps"&gt;DD&lt;/span&gt;, etc. And that&amp;#8217;s only &lt;span class="caps"&gt;HTML4&lt;/span&gt;. &lt;span class="caps"&gt;HTML5&lt;/span&gt; gives us many extra elements to structure our markup. Used appropriately, these can actually make your markup more understandable. It&amp;#8217;s a good practice to occasionally disable stylesheets in your browser while you&amp;#8217;re developing and see if the page looks properly structured. To review all of the new elements in &lt;span class="caps"&gt;HTML5&lt;/span&gt;, see &lt;a class="reference external" href="http://dev.w3.org/html5/html4-differences/#new-elements"&gt;here&lt;/a&gt; and &lt;a class="reference external" href="http://joshduck.com/periodic-table.html"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Lastly, you shouldn&amp;#8217;t put a class or &lt;span class="caps"&gt;ID&lt;/span&gt; on an element unless you need to. Developers sometimes forget that you can style elements without an &lt;span class="caps"&gt;ID&lt;/span&gt; or class. I understand that you need to differentiate the same element when it&amp;#8217;s used in different contexts, but you can use far fewer class attributes by referencing a parent element class to determine your&amp;nbsp;context.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="but-what-about-the-other-problems-with-css"&gt;
+&lt;h3&gt;But what about the other problems with &lt;span class="caps"&gt;CSS&lt;/span&gt;?&lt;/h3&gt;
+&lt;p&gt;Ok, so we understand the reasons to use semantic markup, but we still have to deal with the shortfalls of &lt;span class="caps"&gt;CSS&lt;/span&gt;:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Long and repetitive&amp;nbsp;selectors&lt;/li&gt;
+&lt;li&gt;No way to reuse colors and sizes (i.e., no&amp;nbsp;variables)&lt;/li&gt;
+&lt;li&gt;No arithmetic&amp;nbsp;operators&lt;/li&gt;
+&lt;li&gt;No reusable functions for common design&amp;nbsp;tasks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;What we need is a &lt;span class="caps"&gt;CSS&lt;/span&gt; scripting language to handle all of these shortcomings — some sort of &lt;strong&gt;S&lt;/strong&gt;yntactically &lt;strong&gt;A&lt;/strong&gt;wesome &lt;strong&gt;S&lt;/strong&gt;tyle&lt;strong&gt;S&lt;/strong&gt;heet language.&amp;nbsp;Hmm&amp;#8230;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://localhost:8000/posts/2013/05/taking-stylesheets-to-school-with-sass-compass-and-susy-part-2/"&gt;Continue to Part&amp;nbsp;2&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Koebbe</dc:creator><pubDate>Tue, 14 May 2013 00:00:00 -0500</pubDate><guid>tag:localhost:8000,2013-05-14:posts/2013/05/taking-stylesheets-to-school-with-sass-compass-and-susy-part-1/</guid><category>sass</category><category>compass</category><category>susy</category><category>css</category></item></channel></rss>

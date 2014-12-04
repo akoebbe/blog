@@ -4,6 +4,9 @@ Taking stylesheets to school with Sass, Compass and Susy (Part 2)
 
 :date: 2013-05-15
 :summary: In the previous article we bemoaned the failures and shortcomings of the CSS syntax. Sass shores up all of those failings and give us the power to logically structure and generate semantic stylesheets.
+:category: Development
+:tags: sass, compass, susy, css
+
 
 
 In the `previous article <{filename}sass-1.rst>`_ we bemoaned the failures and shortcomings of the CSS syntax. Sass shores up all of those failings and give us the power to logically structure and generate semantic stylesheets.

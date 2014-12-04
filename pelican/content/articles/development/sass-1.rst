@@ -4,6 +4,8 @@ Taking stylesheets to school with Sass, Compass and Susy (Part 1)
 
 :date: 2013-05-14
 :summary: Any web developer understands the power and frustration of stylesheets. Ever since browsers adopted CSS, web developers have been bringing more design elements into websites. One of the greatest benefits of stylesheets is keeping all your site styles in one location. But there's a problem with stylesheets. CSS has a terrible syntax for selector hierarchy, making it difficult to manage when you have a lot of styles.
+:category: Development
+:tags: sass, compass, susy, css
 
 
 At work our development teams strive to be more efficient and develop in a way that lets us scale as needed while not coding ourselves into a corner when a client's needs change and grow. Implementing the fantastic creative we receive from our design and user experience experts must be done with a solid foundation of markup and stylesheets.

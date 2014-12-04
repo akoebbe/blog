@@ -4,6 +4,7 @@ Installing Crashplan headless on a ReadyNAS 102
 
 :date: 2014-06-29
 :summary: Crashplan offers a great online backup solution. Netgear ReadyNAS offers a great home/small office local network storage solution. Here's a how-to on how to set your ReadyNAS as a Crashplan client.
+:category: Technology
 
 
 Crashplan offers a great online backup solution. Netgear ReadyNAS offers a great home/small office local network storage solution. Here's a how-to on how to set your ReadyNAS as a Crashplan client.

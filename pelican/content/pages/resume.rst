@@ -37,19 +37,13 @@ Competencies
 Work Experience
 ---------------
 
-Lead Application Developer, VML Inc.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Technical Architect, VML Inc.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 *June 2011 to Present*
 
-End to end PHP and Drupal implementation and development. Collaborating with analysts, team members, and other stakeholders to deliver Enterprise Drupal and custom PHP Solutions. Working throughout the life cycle from design to development, deployment and support of all tiers of the application in a highly deadline-driven Agile environment. Supervised direct and project team members.
+End to end PHP and Drupal implementation and development. Managed project teams from 1-6 developers. Responsible for project estimations, client facing discussions, code and architecture reviews on PHP and Drupal projects, developer and client training. Collaborated with analysts, team members, and other stakeholders to deliver Enterprise Drupal and custom PHP Solutions. Worked throughout the life cycle from design to development, deployment and support of all tiers of the application in a highly deadline-driven Agile and Waterfall environments. Supervised direct and project team members.
 
-Notable project clients: Dell, Xerox, Ernst & Young, Ad Council, Western Union, Stella Artois, Quest Diagnostics, Capital One and PayPal.
-
-Firewing, Lead Developer and Administrator
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-*May 2009 to December 2011*
-
-Firewing is a small software start-up in the event ticket pricing market. Designed and developed database, server-side application and web front-end for displaying analytical data, using ExtJS and CakePHP. Configured and maintained development server, Subversion repository, web server, and MySQL database.
+Notable project clients: Dell, Xerox, Ernst & Young, Ad Council, Western Union, Stella Artois, Quest Diagnostics, Capital One, PayPal and NFL.
 
 eCommerce Industries, Inc. (ECi Software Solutions)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -70,6 +64,12 @@ Level 1 & 2 Support Technician (DDMS Subsidiary)
 *November 2003 to February 2005*
 
 Supported text, graphical, handheld, and web based distribution management software for customers and escalated issues from level 1 support technicians. Served as key level 2 support technician for handheld device products. Pioneered and developed a Linux environment for tracking departmental statistical and administrative information using MySQL and PHP.
+
+Firewing, Lead Developer and Administrator
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*May 2009 to December 2011*
+
+Firewing is a small software start-up in the event ticket pricing market. Designed and developed database, server-side application and web front-end for displaying analytical data, using ExtJS and CakePHP. Configured and maintained development server, Subversion repository, web server, and MySQL database.
 
 Freelance Developer and System Administrator
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -101,9 +101,10 @@ Develop and host websites. Work with clients to assess, design, program/implemen
 --------------
 Certifications
 --------------
-* **Microsoft Certified Systems Engineer** - Microsoft, TechSkills, Fort Worth, TX, January 2006
-* **Microsoft Certified Database Administrator** - Microsoft, TechSkills, Fort Worth, TX, January 2006
-* **Microsoft Certified Professional** - Microsoft, TechSkills, Fort Worth, TX, September 2004
+* **Acquia Certified Developer** - Acquia, October 2014
+* **Microsoft Certified Systems Engineer** - Microsoft, January 2006
+* **Microsoft Certified Database Administrator** - Microsoft, January 2006
+* **Microsoft Certified Professional** - Microsoft, September 2004
 
 ---------
 Education

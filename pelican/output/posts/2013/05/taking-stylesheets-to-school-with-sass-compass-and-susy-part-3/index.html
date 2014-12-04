@@ -1,104 +1,76 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml"
-      xmlns:og="http://ogp.me/ns#"
-      xmlns:fb="https://www.facebook.com/2008/fbml">
+<!doctype html>
+<html lang="en">
 <head>
-    <title>Taking stylesheets to school with Sass, Compass and Susy (Part 3) - Andrew Koebbe</title>
-    <!-- Using the latest rendering mode for IE -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+    <meta name="description" content="Andrew Koebbe, Just another developer with a blog.">
 
-    <!-- Open Graph tags -->
-            <meta property="og:type" content="article"/>
-            <meta property="og:title" content="Taking stylesheets to school with Sass, Compass and Susy (Part 3)"/>
-            <meta property="og:url" content="http://blog.andrewkoebbe.com/posts/2013/05/taking-stylesheets-to-school-with-sass-compass-and-susy-part-3/"/>
-            <meta property="og:description" content="In the previous articles we covered the problem of CSS and the solution of Sass and Compass. But what about those fancy grid frameworks that use presentational class names? How can we leverage Sass to get a great responsive grid system and have our semantic class names?"/>
+        <link rel="alternate"  href="http://localhost:8000/feeds/all.atom.xml" type="application/atom+xml" title="Andrew Koebbe Full Atom Feed"/>
+        <link rel="alternate" href="http://localhost:8000/atom.xml" type="application/atom+xml" title="Andrew Koebbe Atom Feed"/>
+        <link rel="alternate" href="http://localhost:8000/rss.xml" type="application/rss+xml" title="Andrew Koebbe RSS Feed"/>
 
-    <!-- Bootstrap -->
-        <link rel="stylesheet" href="http://blog.andrewkoebbe.com/theme/css/bootstrap.flatly.min.css" type="text/css"/>
-    <link href="http://blog.andrewkoebbe.com/theme/css/font-awesome.min.css" rel="stylesheet">
+        <title>Taking stylesheets to school with Sass, Compass and Susy (Part 3) // Andrew Koebbe // Just another developer with a blog.</title>
 
-    <link href="http://blog.andrewkoebbe.com/theme/css/pygments/solarizeddark.css" rel="stylesheet">
-        <link href="http://blog.andrewkoebbe.com/theme/css/typogrify.css" rel="stylesheet">
-    <link rel="stylesheet" href="http://blog.andrewkoebbe.com/theme/css/style.css" type="text/css"/>
-        <link href="http://blog.andrewkoebbe.com/static/andrewkoebbe.css" rel="stylesheet">
+    <link href="/images/favicon.ico" rel="icon">
 
-        <link href="http://blog.andrewkoebbe.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
-              title="Andrew Koebbe ATOM Feed"/>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.3.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://localhost:8000/theme/css/pure.css">
+    <link rel="stylesheet" href="http://localhost:8000/theme/css/pygments.css">
 
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/fitvids/1.0.1/jquery.fitvids.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $(".content").fitVids();
+        });
+    </script>
 </head>
+
 <body>
-
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
-    <div class="container">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a href="http://blog.andrewkoebbe.com/" class="navbar-brand">
-<img src="http://blog.andrewkoebbe.com/images/logo.svg" class="logo" /> Andrew Koebbe            </a>
-        </div>
-        <div class="collapse navbar-collapse navbar-ex1-collapse">
-            <ul class="nav navbar-nav">
-                         <li><a href="http://blog.andrewkoebbe.com/pages/resume.html">
-                             Resume
-                          </a></li>
-                        <li class="active">
-                            <a href="http://blog.andrewkoebbe.com/category/development">Development</a>
-                        </li>
-                        <li >
-                            <a href="http://blog.andrewkoebbe.com/category/diyrecipes">Diy/recipes</a>
-                        </li>
-                        <li >
-                            <a href="http://blog.andrewkoebbe.com/category/technology">Technology</a>
-                        </li>
-            </ul>
-            <ul class="nav navbar-nav navbar-right">
-                <li><a href="http://blog.andrewkoebbe.com/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
-            </ul>
-        </div>
-        <!-- /.navbar-collapse -->
-    </div>
-</div> <!-- /.navbar -->
-
-<div class="container">
-    <div class="row">
-        <div class="col-sm-9">
-
-    <section id="content">
-        <article>
-            <header class="page-header">
-                <h1>
-                    <a href="http://blog.andrewkoebbe.com/posts/2013/05/taking-stylesheets-to-school-with-sass-compass-and-susy-part-3/"
-                       rel="bookmark"
-                       title="Permalink to Taking stylesheets to school with Sass, Compass and Susy (Part 3)">
-                        Taking stylesheets to school with Sass, Compass and Susy (Part&nbsp;3)
-                    </a>
-                </h1>
-            </header>
-            <div class="entry-content">
-                <div class="panel">
-                    <div class="panel-body">
-<footer class="post-info">
-    <span class="label label-default">Date</span>
-    <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2013-05-16T00:00:00"> May 16, 2013</time>
-    </span>
-
-
-
-    
-</footer><!-- /.post-info -->                    </div>
+    <div class="pure-g-r" id="layout">
+        <div class="sidebar pure-u">
+            <div class="cover-img" style="background-image: url('/images/cover.jpg')">
+                <div class="cover-body">
+                    <header class="header">
+                        <hgroup>
+                            <img class="avatar" src="/images/headshot.jpg">
+                            <h1 class="brand-main"><a href="http://localhost:8000">Andrew Koebbe</a></h1>
+                            <p class="tagline">Just another developer with a blog.</p>
+                                <p class="links"><a href="http://localhost:8000/resume">Resume</a></p>
+                                <p class="social">
+                                    <a href="https://www.linkedin.com/profile/view?id=14776117">
+                                        <i class="fa fa-linkedin fa-3x"></i>
+                                    </a>
+                                    <a href="https://twitter.com/andrewkoebbe">
+                                        <i class="fa fa-twitter fa-3x"></i>
+                                    </a>
+                                    <a href="https://github.com/vml-akoebbe">
+                                        <i class="fa fa-github fa-3x"></i>
+                                    </a>
+                                </p>
+                        </hgroup>
+                    </header>
                 </div>
-                <!--  -->
+            </div>
+        </div>
+    <div class="pure-u">
+        <div class="content">
+            <section class="post">
+                <header class="post-header">
+                    <h1>Taking stylesheets to school with Sass, Compass and Susy (Part&nbsp;3)</h1>
+                        <p class="post-meta">
+                            // under                                 <a class="post-category" href="http://localhost:8000/tag/sass/">sass</a>
+                                <a class="post-category" href="http://localhost:8000/tag/compass/">compass</a>
+                                <a class="post-category" href="http://localhost:8000/tag/susy/">susy</a>
+                                <a class="post-category" href="http://localhost:8000/tag/css/">css</a>
+                        </p>
+                </header>
+            </section>
+            <!--  -->
 <blockquote>
 This article was based on Susy 1.0. So it is outdated (unless you use the <a class="reference external" href="http://susydocs.oddbird.net/en/latest/susyone/">susyone</a> import). Please see <a class="reference external" href="http://susydocs.oddbird.net/en/latest/upgrade/">Susy&#8217;s upgrade path doc</a> for more information on what has changed between version 1 and 2. I hope to have a new article about version 2 in the near future.</blockquote>
-<p>In <a class="reference external" href="http://blog.andrewkoebbe.com/posts/2013/05/taking-stylesheets-to-school-with-sass-compass-and-susy-part-1/">part 1</a> and <a class="reference external" href="http://blog.andrewkoebbe.com/posts/2013/05/taking-stylesheets-to-school-with-sass-compass-and-susy-part-2/">part 2</a> we covered the problem of <span class="caps">CSS</span> and the solution of Sass and Compass. But what about those fancy grid frameworks that use presentational class names? How can we leverage Sass to get a great responsive grid system and have our semantic class&nbsp;names?</p>
+<p>In <a class="reference external" href="http://localhost:8000/posts/2013/05/taking-stylesheets-to-school-with-sass-compass-and-susy-part-1/">part 1</a> and <a class="reference external" href="http://localhost:8000/posts/2013/05/taking-stylesheets-to-school-with-sass-compass-and-susy-part-2/">part 2</a> we covered the problem of <span class="caps">CSS</span> and the solution of Sass and Compass. But what about those fancy grid frameworks that use presentational class names? How can we leverage Sass to get a great responsive grid system and have our semantic class&nbsp;names?</p>
 <div class="section" id="part-3-responsive-stylesheets-and-grid-layout-with-susy">
 <h2>Part 3: Responsive stylesheets and grid layout with&nbsp;Susy</h2>
 <p>There are a number of widely used <span class="caps">CSS</span> grid frameworks. They help keep content aligned and offer standardized units (columns) to size and place your content on the page. These can be great for prototyping, but the downfall of most of these frameworks is the use of presentational class names. And we know that&#8217;s a&nbsp;no-no.</p>
@@ -106,12 +78,12 @@ This article was based on Susy 1.0. So it is outdated (unless you use the <a cla
 <p>Let&#8217;s say we&#8217;ve got a two-column section of our site that needs to respond to smaller screens by adjusting to a one-column layout. We&#8217;d set our &quot;columns” to &quot;50%” and float them. Then we&#8217;d create a media query and adjust&nbsp;them.</p>
 <p><span class="caps">CSS</span></p>
 <div class="highlight"><pre><span class="nt">section</span><span class="nc">.overview</span><span class="o">,</span> <span class="nt">section</span><span class="nc">.detail</span> <span class="p">{</span>
-  <span class="k">width</span><span class="o">:</span> <span class="m">50</span><span class="o">%</span><span class="p">;</span>
+  <span class="k">width</span><span class="o">:</span> <span class="m">50%</span><span class="p">;</span>
   <span class="k">float</span><span class="o">:</span> <span class="k">left</span><span class="p">;</span>
 <span class="p">}</span>
 <span class="k">@media</span> <span class="o">(</span><span class="nt">min-width</span><span class="o">:</span> <span class="nt">600px</span><span class="o">)</span> <span class="p">{</span>
   <span class="nt">section</span><span class="nc">.overview</span><span class="o">,</span> <span class="nt">section</span><span class="nc">.detail</span> <span class="p">{</span>
-    <span class="k">width</span><span class="o">:</span> <span class="m">100</span><span class="o">%</span><span class="p">;</span>
+    <span class="k">width</span><span class="o">:</span> <span class="m">100%</span><span class="p">;</span>
     <span class="k">float</span><span class="o">:</span> <span class="k">none</span><span class="p">;</span>
   <span class="p">}</span>
 <span class="p">}</span>
@@ -145,9 +117,9 @@ This article was based on Susy 1.0. So it is outdated (unless you use the <a cla
 </pre></div>
 <p>Compiled <span class="caps">CSS</span></p>
 <div class="highlight"><pre><span class="nt">section</span><span class="nc">.overview</span><span class="o">,</span> <span class="nt">section</span><span class="nc">.detail</span> <span class="p">{</span>
-  <span class="k">width</span><span class="o">:</span> <span class="m">49</span><span class="o">.</span><span class="m">15254</span><span class="o">%</span><span class="p">;</span>
+  <span class="k">width</span><span class="o">:</span> <span class="m">49.15254%</span><span class="p">;</span>
   <span class="k">float</span><span class="o">:</span> <span class="k">left</span><span class="p">;</span>
-  <span class="k">margin-right</span><span class="o">:</span> <span class="m">1</span><span class="o">.</span><span class="m">69492</span><span class="o">%</span><span class="p">;</span>
+  <span class="k">margin-right</span><span class="o">:</span> <span class="m">1.69492%</span><span class="p">;</span>
   <span class="k">display</span><span class="o">:</span> <span class="k">inline</span><span class="p">;</span>
 <span class="p">}</span>
 
@@ -178,15 +150,15 @@ This article was based on Susy 1.0. So it is outdated (unless you use the <a cla
 </pre></div>
 <p>Compiled <span class="caps">CSS</span></p>
 <div class="highlight"><pre><span class="nt">section</span><span class="nc">.overview</span><span class="o">,</span> <span class="nt">section</span><span class="nc">.detail</span> <span class="p">{</span>
-  <span class="k">width</span><span class="o">:</span> <span class="m">49</span><span class="o">.</span><span class="m">15254</span><span class="o">%</span><span class="p">;</span>
+  <span class="k">width</span><span class="o">:</span> <span class="m">49.15254%</span><span class="p">;</span>
   <span class="k">float</span><span class="o">:</span> <span class="k">left</span><span class="p">;</span>
-  <span class="k">margin-right</span><span class="o">:</span> <span class="m">1</span><span class="o">.</span><span class="m">69492</span><span class="o">%</span><span class="p">;</span>
+  <span class="k">margin-right</span><span class="o">:</span> <span class="m">1.69492%</span><span class="p">;</span>
   <span class="k">display</span><span class="o">:</span> <span class="k">inline</span><span class="p">;</span>
 <span class="p">}</span>
 
 <span class="k">@media</span> <span class="o">(</span><span class="nt">max-width</span><span class="o">:</span> <span class="nt">600px</span><span class="o">)</span> <span class="p">{</span>
   <span class="nt">section</span><span class="nc">.overview</span><span class="o">,</span> <span class="nt">section</span><span class="nc">.detail</span> <span class="p">{</span>
-    <span class="k">width</span><span class="o">:</span> <span class="m">100</span><span class="o">%</span><span class="p">;</span>
+    <span class="k">width</span><span class="o">:</span> <span class="m">100%</span><span class="p">;</span>
     <span class="k">float</span><span class="o">:</span> <span class="k">right</span><span class="p">;</span>
     <span class="k">margin-right</span><span class="o">:</span> <span class="m">0</span><span class="p">;</span>
   <span class="p">}</span>
@@ -217,136 +189,65 @@ This article was based on Susy 1.0. So it is outdated (unless you use the <a cla
 </div>
 </div>
 
-            </div>
-            <!-- /.entry-content -->
-    <hr />
-    <section class="comments" id="comments">
-        <h2>Comments</h2>
+            <a href="#" class="go-top">Go Top</a>
+    <div class="comments">
         <div id="disqus_thread"></div>
         <script type="text/javascript">
             /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-            var disqus_shortname = 'akoebbeblog'; // required: replace example with your forum shortname
-            var disqus_identifier = 'taking-stylesheets-to-school-with-sass-compass-and-susy-part-3';
-            var disqus_url = 'http://blog.andrewkoebbe.com/posts/2013/05/taking-stylesheets-to-school-with-sass-compass-and-susy-part-3/';
-            var disqus_config = function () {
-                this.language = "en";
-            };
+            var disqus_shortname = "akoebbeblog"; // required: replace example with your forum shortname
 
             /* * * DON'T EDIT BELOW THIS LINE * * */
-            (function () {
-                var dsq = document.createElement('script');
-                dsq.type = 'text/javascript';
-                dsq.async = true;
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
                 dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
                 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
             })();
         </script>
-        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
-            Disqus.</a></noscript>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
         <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-
-    </section>
-        </article>
-    </section>
-
-        </div>
-        <div class="col-sm-3 well well-sm" id="sidebar">
-
-<aside>
-    <section>
-        <ul class="list-group list-group-flush">
-                <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
-                  <ul class="list-group" id="social">
-                    <li class="list-group-item"><a href="https://www.linkedin.com/profile/view?id=14776117"><i
-                            class="fa fa-linkedin-square fa-lg"></i> LinkedIn
-                    </a></li>
-                    <li class="list-group-item"><a href="https://twitter.com/andrewkoebbe"><i
-                            class="fa fa-twitter-square fa-lg"></i> Twitter
-                    </a></li>
-                    <li class="list-group-item"><a href="https://github.com/vml-akoebbe"><i
-                            class="fa fa-github-square fa-lg"></i> Github
-                    </a></li>
-                  </ul>
-                </li>
-
-
-
-                <li class="list-group-item"><a href="http://blog.andrewkoebbe.com/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
-                    <ul class="list-group" id="tags">
-                        <li class="list-group-item tag-4">
-                            <a href="http://blog.andrewkoebbe.com/tag/recipe/">
-                                recipe
-                            </a>
-                        </li>
-                        <li class="list-group-item tag-4">
-                            <a href="http://blog.andrewkoebbe.com/tag/breakfast/">
-                                breakfast
-                            </a>
-                        </li>
-                        <li class="list-group-item tag-4">
-                            <a href="http://blog.andrewkoebbe.com/tag/oatmeal/">
-                                oatmeal
-                            </a>
-                        </li>
-                    </ul>
-                </li>    
-    <li class="list-group-item"><h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
-      <ul class="list-group" id="links">
-        <li class="list-group-item">
-            <a href="http://vml.com/" target="_blank">
-                VML (My employer)
-            </a>
-        </li>
-      </ul>
-    </li>
-
-        </ul>
-    </section>
-
-</aside>        </div>
     </div>
-</div>
-<footer>
-   <div class="container">
-      <hr>
-      <div class="row">
-         <div class="col-xs-10">&copy; 2014 Andrew Koebbe         </div>
-         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
-      </div>
-   </div>
-</footer>
-<script src="//code.jquery.com/jquery.js"></script>
+<footer class="footer">
+    <p>&copy; Andrew Koebbe &ndash;
+        Built with <a href="https://github.com/PurePelicanTheme/pure-single">Pure Theme</a>
+        for <a href="http://blog.getpelican.com/">Pelican</a>
+    </p>
+</footer>        </div>
+    </div>
+    </div>
+    <script>
+        var $top = $('.go-top');
 
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="http://blog.andrewkoebbe.com/theme/js/bootstrap.min.js"></script>
+        // Show or hide the sticky footer button
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 200) {
+                $top.fadeIn(200);
+            } else {
+                $top.fadeOut(200);
+            }
+        });
 
-<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
-<script src="http://blog.andrewkoebbe.com/theme/js/respond.min.js"></script>
+        // Animate the scroll to top
+        $top.click(function(event) {
+            event.preventDefault();
+            $('html, body').animate({scrollTop: 0}, 300);
+        })
 
-    <script type="text/javascript">
-        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-        var disqus_shortname = 'akoebbeblog'; // required: replace example with your forum shortname
-
-        /* * * DON'T EDIT BELOW THIS LINE * * */
-        (function () {
-            var s = document.createElement('script');
-            s.async = true;
-            s.type = 'text/javascript';
-            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-        }());
+        // Makes sure that the href="#" attached to the <a> elements
+        // don't scroll you back up the page.
+        $('body').on('click', 'a[href="#"]', function(event) {
+            event.preventDefault();
+        });
     </script>
     <script type="text/javascript">
-
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-51896543-1', 'andrewkoebbe.com');
-  ga('send', 'pageview');
-
-
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
     </script>
+    <script type="text/javascript">
+        try {
+            var pageTracker = _gat._getTracker("UA-51896543-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+    </script>
+
 </body>
 </html>

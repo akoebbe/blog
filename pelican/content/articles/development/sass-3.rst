@@ -4,6 +4,8 @@ Taking stylesheets to school with Sass, Compass and Susy (Part 3)
 
 :date: 2013-05-16
 :summary: In the previous articles we covered the problem of CSS and the solution of Sass and Compass. But what about those fancy grid frameworks that use presentational class names? How can we leverage Sass to get a great responsive grid system and have our semantic class names?
+:category: Development
+:tags: sass, compass, susy, css
 
 
 ..

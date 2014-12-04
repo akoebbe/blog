@@ -4,11 +4,12 @@ Yes Virginia, AT&T is Throttling your Netflix
 
 :date: 2014-07-29
 :summary: After reading a slashdot article on someone using a VPN to prove that Verizon is throttling Netflix, I thought I do my own similar test with an SSH SOCKS proxy and AT&T Uverse...
+:category: Technology
 
 
 Today I read `this article <http://hothardware.com/News/Enraged-Verizon-FiOS-Customer-Posts-Video-Seemingly-Proving-ISP-Throttles-Netflix/>`_ via `Slashdot <http://yro.slashdot.org/story/14/07/26/0324226/enraged-verizon-fios-customer-seemingly-demonstrates-netflix-throttling>`_ that reported a startup CEO, who was very skeptical of Verizon's speed when it came to Netflix, decided to run a pretty simple test to see if throttling was involved. He compared the Netflix down speeds without a VPN and then with a VPN. He found a difference of 375kbps to 3000kbps, respectively. In theory the VPN should be slower because of extra hops and encryption. I had to try this for myself.
 
-So I have a 18mbps Uverse plan from AT&T. Let's see what Sppedtest.net has to say about it.
+So I have a 18mbps Uverse plan from AT&T. Let's see what Speedtest.net has to say about it.
 
 .. image:: {filename}/images/speedtest.png
 
